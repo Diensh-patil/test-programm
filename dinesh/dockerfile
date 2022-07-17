@@ -3,5 +3,5 @@ FROM ubuntu
 
 WORKDIR /Dinesh
 RUN echo " my test docker file " > /Dinesh/testdock
-
+ENV myname Dinesh patilENV myname Dinesh patil
 
