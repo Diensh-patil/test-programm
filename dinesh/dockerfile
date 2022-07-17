@@ -1,0 +1,7 @@
+FROM ubuntu
+
+
+WORKDIR /Dinesh
+RUN echo " my test docker file " > /Dinesh/testdock
+
+
